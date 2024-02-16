@@ -21,7 +21,7 @@ Let's play around with Pseudo-classes and selectors.
 ...
 ```
 
-The end result will look like this:
+The end result *might* look like this, but you are free to style it however you wish:
 
 ![final result](assets/example.png)
 
