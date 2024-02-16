@@ -21,9 +21,28 @@ Let's play around with Pseudo-classes and selectors.
 ...
 ```
 
+The end result will look like this:
+
+![final result](assets/example.png)
+
 Notice how this creates a sub-list inside your main navigation menu. Your task will be to keep the sub-menu hidden until the visitor hovers the mouse-pointer over the "More" menu item. Then the sub-menu will show up.
 
 Here are the keywords from this chapter:
 
-![Keywords from the chapter](assets/keywords.png)
-
+* CSS Box Model
+* content
+* padding
+* border
+* margin
+* DevTools
+* element display
+* element flow
+* position
+* visibility
+* floated elements
+* `float`
+* `clear`
+* attribute selector
+* pseudo-class
+* pseudo-element
+* child selector
